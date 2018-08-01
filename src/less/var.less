@@ -1,0 +1,45 @@
+@black: #333;
+@black_1: #444444;
+@blcak_2: #888;
+
+@white: #fff;
+
+@gray: #f7f7f7;
+@gray_2: #cbcbcb;
+
+@blue: #006699;
+@blue-a: rgba(15, 98, 167, 0.8);
+
+@blue-text: @blue;
+
+
+@red:#f72a3d;
+.banxin() {
+	@media (min-width: 769px) {
+		min-height: 5px;
+		width: 1000px;
+		margin-left: auto;
+		margin-right: auto;
+	}
+	@media (max-width: 768px) {
+		min-height: 5px;
+		width: 100%;
+		margin-left: auto;
+		margin-right: auto;
+		//background: slategrey;
+	}
+}
+
+.setBackgroundImgCover(@imgUrl:"../source/banner/banner_1.png" , @h:670px , @w:100% ) {
+	background-image: url(@imgUrl);
+	height: @h;
+	width: @w;
+	background-position: center center;
+}
+
+.title2() {
+	color: @black_1;
+	font-weight: normal;
+	text-align: center;
+	font-size: 36px;
+}
