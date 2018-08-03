@@ -62,90 +62,158 @@
 
 <style lang="less">
     @import "../../less/var";
-    @codeimgH:96px;
-    .footer {
-        background: @blue;
-        color: @white;
-        .banxin {
-            .banxin();
-            .footer-top {
-                padding-bottom: 10px;
-                padding-top: 15px;
-                border-bottom: 1px solid @white;
-                display: flex;
-                flex-direction: row;
-                align-content: space-between;
-                &-left{
-                    width: 810px;
+
+    @media (min-width: 768px) {
+        @codeimgH:96px;
+        .footer {
+            background: @blue;
+            color: @white;
+            .banxin {
+                .banxin();
+                .footer-top {
+                    padding-bottom: 10px;
+                    padding-top: 15px;
+                    border-bottom: 1px solid @white;
                     display: flex;
-                    flex-direction: column;
-
-                    @topH:40px;
-                    &-top{
-                        height: @topH;
-                        padding-right: 20px;
+                    flex-direction: row;
+                    align-content: space-between;
+                    &-left{
+                        width: 810px;
                         display: flex;
-                        flex-direction: row;
-                        justify-content: center;
+                        flex-direction: column;
 
-                        .links{
+                        @topH:40px;
+                        &-top{
+                            height: @topH;
+                            padding-right: 20px;
+                            display: flex;
+                            flex-direction: row;
+                            justify-content: center;
 
-                            align-self: flex-end;
-                            .link{
+                            .links{
 
-                                font-size: 15px;
-                                padding: 0 15px;
-                                border-right: 1px solid @white;
-                                &:last-child{
-                                    border-right: none;
+                                align-self: flex-end;
+                                .link{
+
+                                    font-size: 15px;
+                                    padding: 0 15px;
+                                    border-right: 1px solid @white;
+                                    &:last-child{
+                                        border-right: none;
+                                    }
+                                    &:hover{
+                                        cursor: default;
+                                    }
                                 }
-                                &:hover{
-                                    cursor: default;
+                            }
+                            .address{
+                                padding-left: 30px;
+                                align-self: flex-end;
+
+                                font-size: 14px;
+                                .addressIcon{
+                                    position: relative;
+                                    vertical-align: bottom;
+                                    margin-right: 5px;
                                 }
                             }
                         }
-                        .address{
-                            padding-left: 30px;
-                            align-self: flex-end;
+                        &-bottom{
+                            height: @codeimgH - @topH;
+                            line-height: @codeimgH - @topH;
+                            text-align: center;
+                            align-self: center;
+                            font-size: 22px;
+                            font-weight: bolder;
 
-                            font-size: 14px;
-                            .addressIcon{
-                                position: relative;
-                                vertical-align: bottom;
-                                margin-right: 5px;
-                            }
                         }
                     }
-                    &-bottom{
-                        height: @codeimgH - @topH;
-                        line-height: @codeimgH - @topH;
-                        text-align: center;
-                        align-self: center;
-                        font-size: 22px;
-                        font-weight: bolder;
-
+                    &-right{
+                        width: 130px;
+                        >img{
+                            display: block;
+                            border: none;
+                            width: @codeimgH;
+                            height: @codeimgH;
+                        }
                     }
                 }
-                &-right{
-                    width: 130px;
-                    >img{
-                        display: block;
-                        border: none;
-                        width: @codeimgH;
-                        height: @codeimgH;
+                .footer-bottom{
+                    font-size: 14px;
+                    padding: 3px 0;
+                    text-align: center;
+                    a{
+                        color: @white;
+                        text-decoration: none ;
                     }
-                }
-            }
-            .footer-bottom{
-                font-size: 14px;
-                padding: 3px 0;
-                text-align: center;
-                a{
-                    color: @white;
-                    text-decoration: none ;
                 }
             }
         }
     }
+
+    @media (max-width: 767px) {
+        @codeimgH:96px;
+        .footer {
+            background: @blue;
+            color: @white;
+            .banxin {
+                width: 100%;
+                .footer-top {
+                    padding-top: 20px;
+                    border-bottom: 1px solid @white;
+                    padding-bottom: 1rem;
+                    display: flex;
+                    flex-direction: row;
+                    justify-content: space-around;
+                    align-items: center;
+
+                    &-left{
+                        width: 70%;
+                        display: flex;
+                        flex-direction: column-reverse;
+                        font-size: 14px;
+                        &-top{
+
+                            .links{
+                                display: none;
+                            }
+                            .address{
+                                padding-top: 10px;
+                                font-size: 12px;
+                                .addressIcon{
+                                    width: 14px;
+                                    position: relative;
+                                    top: 3px;
+                                }
+                            }
+                        }
+                        &-bottom{
+
+                        }
+                    }
+                    &-right{
+                        width: 25%;
+                        >img{
+                            display: block;
+                            border: none;
+                            width: 100%;
+                        }
+                    }
+                }
+                .footer-bottom{
+                    font-size: 12px;
+                    padding: 4px 0;
+                    text-align: center;
+                    a{
+                        display: none;
+                        color: @white;
+                        text-decoration: none ;
+                    }
+                }
+            }
+        }
+    }
+
+
 
 </style>

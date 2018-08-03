@@ -7,7 +7,6 @@
                 <p class="subTitle">肿瘤免疫基因组学研究领域的佼佼者！</p>
             </div>
         </div>
-
         <div class="sec-cancer">
             <div class="banxin">
                 <h2 class="title2">专注癌症免疫组学</h2>
@@ -16,7 +15,6 @@
                 </p>
                 <p>公司利用先进的高通量测序平台和生物信息学分析平台来检测肿瘤新生抗原。为推动癌症研究，索真立志于不断把免疫组学研究成果转化为服务于临床诊断和治疗评估的产品，以提高患者就医质量。
                 </p>
-
 
                 <div class="one img-show">
                     <img src="../../source/index/tu1.png" alt="">
@@ -34,7 +32,6 @@
                 </div>
             </div>
         </div>
-
         <div class="sec-team">
             <div class="banxin">
                 <h2 class="title2">核心运营团队</h2>
@@ -42,7 +39,9 @@
                     <div class="item chenqian">
                         <div class="item-top"></div>
                         <div class="item-bottom">
-                            <h4 class="name">陈谦 <span class="name-title">生物医学</span></h4>
+                            <h4 class="name">陈谦
+                                <span class="name-title">生物医学</span>
+                            </h4>
                             <div class="info">美国印第安纳大学医学院医学与分子遗传学系博士，美国约翰霍普金斯大学分子生物学和遗传学博士后，有丰富的基因检测和溶瘤病毒疫苗学术和工业界经验。
                             </div>
                         </div>
@@ -51,7 +50,9 @@
                     <div class="item liuhong">
                         <div class="item-top"></div>
                         <div class="item-bottom">
-                            <h4 class="name ">刘泓 <span class="name-title">计算机数据</span></h4>
+                            <h4 class="name ">刘泓
+                                <span class="name-title">计算机数据</span>
+                            </h4>
                             <div class="info">少年班，中科院计算所博士，研究成果应用于Facebook和阿里集团，有丰富的大数据和软件开发工作经验。
                             </div>
                         </div>
@@ -59,16 +60,17 @@
                     <div class="item zhanghongbing">
                         <div class="item-top"></div>
                         <div class="item-bottom">
-                            <h4 class="name">张宏冰 <span class="name-title">肿瘤研究</span></h4>
-                            <div class="info">美国宾夕法尼亚大学医学院博士，哈佛医学院博士后、讲师。现任中国医学科学院-北京协和医学院 美国中华医学基金会(CMB) 杰出教授、生理学博士生导师，北京协和医院兼职教授，国家杰出青年科学基金获得者。
+                            <h4 class="name">张宏冰
+                                <span class="name-title">肿瘤研究</span>
+                            </h4>
+                            <div class="info">
+                                美国宾夕法尼亚大学医学院博士，哈佛医学院博士后、讲师。现任中国医学科学院-北京协和医学院 美国中华医学基金会(CMB) 杰出教授、生理学博士生导师，北京协和医院兼职教授，国家杰出青年科学基金获得者。
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-
-
         <div class="sec-team">
             <div class="banxin">
                 <h2 class="title2">核心专家顾问团队</h2>
@@ -76,28 +78,33 @@
                     <div class="item panduojia">
                         <div class="item-top"></div>
                         <div class="item-bottom">
-                            <h4 class="name">潘多佳博士<span class="name-title">肿瘤基因研究</span></h4>
-                            <div class="info">美国加州大学（UCLA）博士，美国加州大学（UC Berkeley）大学博士后。现为美国UT Southwest 医学中心生理系教授，系主任。美国霍华德休斯医学研究所研究员。国际肿瘤研究领域权威。特别是开创了HIPPO 基因通路在肿瘤中的功能研究。
+                            <h4 class="name">潘多佳博士
+                                <span class="name-title">肿瘤基因研究</span>
+                            </h4>
+                            <div class="info">
+                                美国加州大学（UCLA）博士，美国加州大学（UC Berkeley）大学博士后。现为美国UT Southwest 医学中心生理系教授，系主任。美国霍华德休斯医学研究所研究员。国际肿瘤研究领域权威。特别是开创了HIPPO 基因通路在肿瘤中的功能研究。
                             </div>
                         </div>
                     </div>
                     <div class="item panfan">
                         <div class="item-top"></div>
                         <div class="item-bottom">
-                            <h4 class="name ">潘帆博士 <span class="name-title">肿瘤免疫研究</span></h4>
-                            <div class="info">美国约翰。霍普金斯大学医学院博士后。现为美国约翰霍普金斯大学医学院肿瘤中心副教授，为肿瘤免疫学做出了杰出贡献，其科学发现发表在nature、science、cell等学术杂志。
+                            <h4 class="name ">潘帆博士
+                                <span class="name-title">肿瘤免疫研究</span>
+                            </h4>
+                            <div class="info">
+                                美国约翰。霍普金斯大学医学院博士后。现为美国约翰霍普金斯大学医学院肿瘤中心副教授，为肿瘤免疫学做出了杰出贡献，其科学发现发表在nature、science、cell等学术杂志。
                             </div>
                         </div>
                     </div>
                 </div>
             </div>
         </div>
-
         <div class="sec-research">
             <div class="banxin">
                 <h2 class="title2">产品研发历程</h2>
                 <div class="research-box">
-                    <div class="item" v-for="(v , i) in history">
+                    <div class="item" v-for="(v , i) in history" :key="i">
                         <h3 class="item-title">{{v.title}}</h3>
                         <p class="item-time">{{v.time}}</p>
                         <div class="cover">
@@ -107,31 +114,27 @@
                 </div>
             </div>
         </div>
-
         <div class="sec-partners">
             <h2 class="title2">合作伙伴</h2>
             <div class="out">
                 <div class="con">
-                    <img  src="http://www.vlifebank.com/8a83af79ec2695106a6ea18b1e5e1219.png"><!--
-        --><img  src="http://www.vlifebank.com/8a83af79ec2695106a6ea18b1e5e1219.png">
+                    <img src="http://www.vlifebank.com/8a83af79ec2695106a6ea18b1e5e1219.png">
+                    <!--
+                  --><img src="http://www.vlifebank.com/8a83af79ec2695106a6ea18b1e5e1219.png">
                 </div>
             </div>
         </div>
-
-
         <Footer></Footer>
 
     </div>
 </template>
 
 <script>
-
-	import Nav from '../../components/nav/nav.vue';
-	import Footer from "../../components/footer/footer.vue"
-
+	import Nav from "../../components/nav/nav.vue";
+	import Footer from "../../components/footer/footer.vue";
 
 	export default {
-		name: 'app',
+		name: "app",
 		data: function () {
 			return {
 				history: [
@@ -162,17 +165,17 @@
 					{
 						title: "进入推广",
 						time: "2018年3月",
-						info: "动物实验以及回顾性研究完成，为临床试验做准备，计划在六月底递交临床试验申请"
+						info:
+							"动物实验以及回顾性研究完成，为临床试验做准备，计划在六月底递交临床试验申请"
 					}
 				]
-			}
+			};
 		},
 		components: {Nav, Footer}
-	}
+	};
 </script>
 
 <style lang="less">
-
     @import "../../less/reset-common";
     @import "../../less/var";
     // 图片效果 ，鼠标悬浮时，底部显示显示提示文字
@@ -205,290 +208,570 @@
         &:hover > p {
             bottom: 0;
         }
+    }
+
+    @media (min-width: 769px) {
+        #app {
+            .banner {
+                .setBackgroundImgCover();
+
+                .banxin {
+                    .banxin();
+                    padding-top: 160px;
+                    .title {
+                        margin-top: 0;
+                        color: @white;
+                        font-size: 58px;
+                    }
+                    .subTitle {
+                        color: @white;
+                        font-size: 36px;
+                    }
+                }
+            }
+            .sec-cancer {
+                background: #ffffff;
+                padding-bottom: 50px;
+                .banxin {
+                    padding-top: 60px;
+                    .banxin();
+                    color: @blcak_2;
+                    .title2 {
+                        .title2();
+                    }
+                    p {
+                        text-align: center;
+                        font-size: 16px;
+                        line-height: 1.7;
+                    }
+
+                    .one {
+                        .img-show();
+                        margin-top: 50px;
+                    }
+                    .two {
+                        margin-top: 10px;
+                        display: flex;
+                        flex-direction: row;
+                        justify-content: space-between;
+                        height: 330px;
+                        overflow: hidden;
+                        .left {
+                            .img-show(@h:330px ,@w:660px);
+                        }
+                        .right {
+                            .img-show(@h:330px; @w:330px);
+                        }
+                    }
+                }
+            }
+
+            .sec-team {
+                background: @gray;
+                padding-top: 30px;
+                .banxin {
+                    .banxin();
+                    .title2 {
+                        .title2();
+                    }
+
+                    .team {
+                        display: flex;
+                        flex-direction: row;
+                        justify-content: space-around;
+                        .item {
+                            @outerH: 416px;
+                            @topH: 180px;
+                            width: 312px;
+                            height: @outerH;
+                            border: 1px solid @blue;
+                            flex-direction: column;
+
+                            &-top {
+                                height: @topH;
+                                /*background: red;*/
+                                background-position: center;
+                                background-repeat: no-repeat;
+                                background-size: cover;
+
+                                transition: 0.3s;
+                            }
+                            &-bottom {
+                                height: (@outerH - @topH) - 2;
+                                color: @black_1;
+                                padding: 15px;
+                                .name {
+                                    margin-top: 0;
+                                    margin-bottom: 20px;
+                                    padding-top: 10px;
+                                    font-size: 26px;
+                                    &-title {
+                                        font-weight: normal;
+                                        font-size: 20px;
+                                        display: inline-block;
+                                        padding-left: 20px;
+                                    }
+                                }
+                                .info {
+                                    font-size: 15px;
+                                    color: inherit;
+                                }
+
+                                transition: 0.35s;
+                            }
+                            &:hover .item-bottom {
+                                background: @blue;
+                                color: @white;
+                            }
+                        }
+
+                        .chenqian {
+                            .item-top {
+                                background-image: url("../../source/index/chenbo.png");
+                            }
+                            &:hover .item-top {
+                                background-image: url("../../source/index/chenbo1.png");
+                            }
+                        }
+                        .liuhong {
+                            .item-top {
+                                background-image: url("../../source/index/liuhong.png");
+                            }
+
+                            &:hover .item-top {
+                                background-image: url("../../source/index/liuhong1.png");
+                            }
+                        }
+                        .zhanghongbing {
+                            .item-top {
+                                background-image: url("../../source/index/zhanghongbing.png");
+                            }
+
+                            &:hover .item-top {
+                                background-image: url("../../source/index/zhanghongbing1.png");
+                            }
+                        }
+                        .panduojia {
+                            .item-top {
+                                background-image: url("../../source/index/panduojia.png");
+                            }
+
+                            &:hover .item-top {
+                                background-image: url("../../source/index/panduojia1.png");
+                            }
+                        }
+                        .panfan {
+                            .item-top {
+                                background-image: url("../../source/index/panfan.png");
+                            }
+
+                            &:hover .item-top {
+                                background-image: url("../../source/index/panfan1.png");
+                            }
+                        }
+                    }
+                }
+                &:not(:first-child) {
+                    padding-bottom: 60px;
+                }
+            }
+
+            .sec-research {
+                /*border: 1px solid orangered;*/
+                padding: 50px 0 100px 0;
+                .banxin {
+                    .banxin();
+                    .title2 {
+                        .title2();
+                    }
+                    .research-box {
+                        display: flex;
+                        flex-direction: row;
+                        justify-content: space-between;
+                        .item {
+                            width: 192px;
+                            height: 230px;
+                            background: @gray;
+                            color: @black;
+                            cursor: default;
+                            &-title {
+                                font-size: 30px;
+                                font-weight: bolder;
+                                padding-left: 30px;
+                                margin-top: 80px;
+                                margin-bottom: 10px;
+                            }
+                            &-time {
+                                font-size: 16px;
+                                font-weight: bolder;
+                                padding-left: 30px;
+                            }
+                            position: relative;
+                            .cover {
+                                cursor: default;
+                                position: absolute;
+                                width: 100%;
+                                height: 100%;
+                                top: 0;
+                                left: 0;
+                                background: @blue-a;
+                                padding: 10px;
+                                display: flex;
+                                align-items: center;
+                                justify-content: center;
+                                p {
+                                    font-size: 16px;
+                                    color: @white;
+                                }
+                                opacity: 0;
+                                transition: 0.5s;
+                            }
+
+                            &:hover .cover {
+                                opacity: 1;
+                            }
+                        }
+                    }
+                }
+            }
+
+            .sec-partners {
+                padding-top: 30px;
+                padding-bottom: 30px;
+                background-color: #f9f9f9;
+                .title2 {
+                    .title2();
+                }
+                .out {
+                    width: 100%;
+                    padding: 10px 0 30px 0;
+                    overflow: hidden;
+                    text-align: center;
+                    .con {
+                        width: 10580px;
+                        height: 150px;
+                        animation: move 60s linear infinite normal;
+                        animation-fill-mode: forwards;
+                        overflow: hidden;
+                        transform-origin: left top;
+                        display: flex;
+                        flex-direction: row;
+                        flex-wrap: nowrap;
+                        img {
+                            display: inline-block;
+                        }
+                        .con:hover {
+                            animation-play-state: paused;
+                            -webkit-animation-play-state: paused;
+                        }
+                        @keyframes move {
+                            0% {
+                                transform: translateX(0px);
+                            }
+                            100% {
+                                transform: translateX(-5290px);
+                            }
+                        }
+                    }
+                }
+            }
+
+            /*padding-bottom: 200px;*/
+        }
 
     }
 
+    @media (max-width: 768px) {
+        .title2() {
+            font-size: 1.5rem;
+            color: @black_1;
+            font-weight: normal;
+            margin: 0;
+        };
+        #app {
+            padding-top: 48px;
+            .banner {
+                .setBackgroundImgCover(@h: 13rem);
+                .banxin {
+                    width: 100%;
+                    padding: 3rem 0.5rem 1rem;
+                    .title {
+                        margin-top: 0;
+                        color: @white;
+                        font-size: 1.8rem;
+                        font-weight: normal;
 
-
-    #app {
-
-        .banner {
-            .setBackgroundImgCover();
-
-            .banxin {
-                .banxin();
-                padding-top: 160px;
-                .title {
-                    margin-top: 0;
-                    color: @white;
-                    font-size: 58px;
-                }
-                .subTitle {
-                    color: @white;
-                    font-size: 36px;
-                }
-
-            }
-        }
-        .sec-cancer {
-            background: #ffffff;
-            padding-bottom:50px ;
-            .banxin {
-                padding-top: 60px;
-                .banxin();
-                color: @blcak_2;
-                .title2 {
-                    .title2()
-                }
-                p {
-                    text-align: center;
-                    font-size: 16px;
-                    line-height: 1.7;
-                }
-
-                .one {
-
-                    .img-show();
-                    margin-top: 50px;
-                }
-                .two {
-                    margin-top: 10px;
-                    display: flex;
-                    flex-direction: row;
-                    justify-content: space-between;
-                    height: 330px;
-                    overflow: hidden;
-                    .left {
-                        .img-show(@h:330px ,@w:660px);
                     }
-                    .right {
-                        .img-show(@h:330px; @w:330px);
+                    .subTitle {
+                        color: @white;
+                        font-size: 1.1rem;
                     }
                 }
             }
+            .sec-cancer {
+                background: #ffffff;
+                padding-bottom: 2rem;
 
-        }
+                .banxin {
+                    padding: 2rem 0.5rem 1rem;
+                    color: @blcak_2;
+                    .title2 {
+                        .title2();
+                    }
+                    p {
+                        text-align: left;
+                        font-size: 1rem;
+                        line-height: 1.6;
+                    }
 
-        .sec-team{
-            background: @gray;
-            padding-top: 30px;
-            .banxin{
-                .banxin();
-                .title2{
-                    .title2();
-                }
-
-                .team{
-                    display: flex;
-                    flex-direction: row;
-                    justify-content: space-around;
-                    .item{
-                        @outerH:416px;
-                        @topH:180px;
-                        width: 312px;
-                        height:@outerH;
-                        border: 1px solid @blue;
-                        flex-direction: column;
-
-                        &-top{
-                            height: @topH;
-                            /*background: red;*/
-                            background-position: center;
-                            background-repeat: no-repeat;
-                            background-size: cover;
-
-                            transition: 0.3s;
+                    .img-show {
+                        display: block;
+                        border-radius: 3px !important;
+                        overflow: hidden;
+                        box-shadow: 1px 1px 3px 1px #AAA;
+                        > img {
+                            width: 100% !important;
+                            height: 10rem !important;
+                            display: block;
                         }
-                        &-bottom{
-                            height: (@outerH - @topH) - 2;
-                            color: @black_1;
-                            padding: 15px;
-                            .name{
-                                margin-top: 0;
-                                margin-bottom: 20px;
-                                padding-top: 10px;
-                                font-size: 26px;
-                                &-title{
-                                    font-weight: normal;
-                                    font-size: 20px;
-                                    display: inline-block;
-                                    padding-left: 20px;
-                                }
-                            }
-                            .info{
-                                font-size: 15px;
-                                color: inherit;
-                            }
-
-                            transition: 0.35s;
-                        }
-                        &:hover .item-bottom{
-                            background: @blue;
+                        > P {
+                            position: static !important;
+                            font-size: 14px !important;
+                            background: @blue-a;
+                            margin: 0;
+                            padding: 0.5rem ;
                             color: @white;
                         }
                     }
-
-                    .chenqian{
-                        .item-top{
-                            background-image: url("../../source/index/chenbo.png");
-                        }
-                        &:hover .item-top{
-                            background-image: url("../../source/index/chenbo1.png");
+                    .one {
+                        overflow: hidden;
+                    }
+                    .two {
+                        margin-top: 10px;
+                        display: flex;
+                        flex-direction: column;
+                        > .img-show:not(:first-child) {
+                            margin-top: 10px;
                         }
                     }
-                    .liuhong{
-                        .item-top{
-                            background-image: url("../../source/index/liuhong.png");
-                        }
-
-                        &:hover .item-top{
-                            background-image: url("../../source/index/liuhong1.png");
-                        }
-                    }
-                    .zhanghongbing{
-                        .item-top{
-                            background-image: url("../../source/index/zhanghongbing.png");
-                        }
-
-                        &:hover .item-top{
-                            background-image: url("../../source/index/zhanghongbing1.png");
-                        }
-                    }
-                    .panduojia{
-                        .item-top{
-                            background-image: url("../../source/index/panduojia.png");
-                        }
-
-                        &:hover .item-top{
-                            background-image: url("../../source/index/panduojia1.png");
-                        }
-                    }
-                    .panfan{
-                        .item-top{
-                            background-image: url("../../source/index/panfan.png");
-                        }
-
-                        &:hover .item-top {
-                            background-image: url("../../source/index/panfan1.png");
-                        }
-                    }
-
-
-
-
-
                 }
             }
-            &:not(:first-child){
-                padding-bottom: 60px;
-            }
-        }
+            .sec-team {
+                background: @gray;
+                padding: 1rem 0;
+                .banxin {
+                    width: 100%;
+                    padding: 0 0.5rem;
+                    .title2 {
+                        .title2();
+                    }
 
-        .sec-research{
-            /*border: 1px solid orangered;*/
-            padding: 50px 0 100px 0;
-            .banxin {
-                .banxin();
-                .title2 {
-                    .title2();
-                }
-                .research-box {
-                    display: flex;
-                    flex-direction: row;
-                    justify-content: space-between;
-                    .item {
-                        width: 192px;
-                        height: 230px;
-                        background: @gray;
-                        color: @black;
-                        cursor: default;
-                        &-title{
-                            font-size: 30px;
-                            font-weight: bolder;
-                            padding-left: 30px;
-                            margin-top: 80px;
-                            margin-bottom: 10px;
-
-                        }
-                        &-time{
-                            font-size: 16px;
-                            font-weight: bolder;
-                            padding-left: 30px;
-                        }
-                        position: relative;
-                        .cover{
-                            cursor: default;
-                            position: absolute;
+                    .team {
+                        width: 100%;
+                        display: flex;
+                        flex-direction: column;
+                        justify-content: space-around;
+                        align-items: center;
+                        .item {
                             width: 100%;
-                            height: 100%;
-                            top: 0;
-                            left: 0;
-                            background:@blue-a ;
-                            padding: 10px;
+                            @item-h:130px;
+                            height:  @item-h;
+                            margin-top: 1rem;
+                            border: 1px solid @blue;
                             display: flex;
+                            flex-direction: row;
+                            justify-content: space-between;
                             align-items: center;
-                            justify-content: center;
-                            p{
-                                font-size: 16px;
+                            overflow: hidden;
+                            border-radius: 5px;
+                            /*box-shadow: 1px 1px 3px 1px rgba(25, 23, 204, 0.8);*/
+                            &-top {
+                                width: 30%;
+                                height: @item-h;
+                                background-position: center;
+                                background-repeat: no-repeat;
+                                background-size: cover;
+                                transition: 0.3s;
+                            }
+                            &-bottom {
+                                height: @item-h;
+                                color: @black_1;
+                                padding: 0.5rem 10px;
+                                width: 70%;
+                                display: flex;
+                                flex-direction: column;
+                                justify-content: flex-start;
+                                .name {
+                                    margin-top: 0;
+                                    margin-bottom: 0.4em;
+                                    font-size: 1rem;
+                                    &-title {
+                                        font-size: 0.7rem;
+                                    }
+                                }
+                                .info {
+                                    font-size: 13px;
+                                    overflow-y:scroll ;
+                                }
+                                transition: 0.35s;
+                            }
+                            &:hover .item-bottom {
+                                background: @blue;
                                 color: @white;
                             }
-                            opacity: 0;
-                            transition: 0.5s;
                         }
 
-                        &:hover .cover{
-                            opacity: 1;
+                        .chenqian {
+                            .item-top {
+                                background-image: url("../../source/index/chenbo.png");
+                            }
+                            &:hover .item-top {
+                                background-image: url("../../source/index/chenbo1.png");
+                            }
+                        }
+                        .liuhong {
+                            .item-top {
+                                background-image: url("../../source/index/liuhong.png");
+                            }
+
+                            &:hover .item-top {
+                                background-image: url("../../source/index/liuhong1.png");
+                            }
+                        }
+                        .zhanghongbing {
+                            .item-top {
+                                background-image: url("../../source/index/zhanghongbing.png");
+                            }
+
+                            &:hover .item-top {
+                                background-image: url("../../source/index/zhanghongbing1.png");
+                            }
+                        }
+                        .panduojia {
+                            .item-top {
+                                background-image: url("../../source/index/panduojia.png");
+                            }
+
+                            &:hover .item-top {
+                                background-image: url("../../source/index/panduojia1.png");
+                            }
+                        }
+                        .panfan {
+                            .item-top {
+                                background-image: url("../../source/index/panfan.png");
+                            }
+
+                            &:hover .item-top {
+                                background-image: url("../../source/index/panfan1.png");
+                            }
                         }
                     }
                 }
             }
-        }
 
+            .sec-research {
+                /*border: 1px solid slateblue;*/
+                background: @white;
+                /*padding: 50px 0 100px 0;*/
 
-
-        .sec-partners {
-            padding-top: 30px;
-            padding-bottom: 30px;
-            background-color: #f9f9f9;
-            .title2{
-                .title2();
+                .banxin {
+                    width: 100%;
+                    padding: 2rem 0.5rem;
+                    .title2 {
+                        .title2();
+                        padding-bottom: 1rem;
+                    }
+                    .research-box {
+                        display: flex;
+                        flex-direction:column;
+                        justify-content: center;
+                        align-items: center;
+                        .item {
+                            width: 90%;
+                            color: @black;
+                            cursor: default;
+                            display: flex;
+                            flex-direction: row;
+                            justify-content: space-between;
+                            align-items: center;
+                            border-bottom: 1px solid #ddd;
+                            &-title {
+                                background:@blue-a;
+                                color: @white;
+                                width: 80px;
+                                height: 80px;
+                                text-align: center;
+                                line-height: 80px;
+                                border-radius: 50%;
+                                font-size: 1rem;
+                            }
+                            &-time {
+                                font-size:1rem;
+                                font-weight: bolder;
+                                width: 33%;
+                                text-align: center;
+                                /*background: seagreen;*/
+                            }
+                            .cover {
+                                /*position: absolute;*/
+                                width: 33%;
+                                color: #333333;
+                                cursor: default;
+                                display: flex;
+                                align-items: center;
+                                justify-content: center;
+                                p {
+                                    font-size: 0.8rem;
+                                }
+                            }
+                        }
+                    }
+                }
             }
-            .out {
-                width: 100%;
-                padding: 10px 0 30px 0;
-                margin: 0 auto;
-                overflow: hidden;
-                text-align: center;
-                .con {
-                    width: 10580px;
-                    height: 150px;
-                    animation: move 60s linear infinite normal;
-                    animation-fill-mode: forwards;
+
+            .sec-partners {
+                padding-top: 30px;
+                padding-bottom: 30px;
+                background-color: #f9f9f9;
+                .title2 {
+                    .title2();
+                    padding-left: 1rem;
+                }
+                .out {
+                    width: 100%;
+                    padding: 10px 0 30px 0;
                     overflow: hidden;
-                    transform-origin: left top;
-                    img {
-                        display: inline-block;
-                    }
-                    .con:hover {
-                        animation-play-state: paused;
-                        -webkit-animation-play-state: paused;
-                    }
-                    @keyframes move {
-                        0% {
-                            transform: translateX(0px);
+                    text-align: center;
+                    .con {
+                        width: 10580px;
+                        height: 100px;
+                        animation: move 60s linear infinite normal;
+                        animation-fill-mode: forwards;
+                        overflow: hidden;
+                        transform-origin: left top;
+                        display: flex;
+                        flex-direction: row;
+                        flex-wrap: nowrap;
+                        img {
+                            display: inline-block;
                         }
-                        100% {
-                            transform: translateX(-5290px);
+                        .con:hover {
+                            animation-play-state: paused;
+                            -webkit-animation-play-state: paused;
+                        }
+                        @keyframes move {
+                            0% {
+                                transform: translateX(0px);
+                            }
+                            100% {
+                                transform: translateX(-5290px);
+                            }
                         }
                     }
                 }
-
             }
 
+            /*padding-bottom: 200px;*/
         }
-
-
-
-        /*padding-bottom: 200px;*/
     }
 </style>
