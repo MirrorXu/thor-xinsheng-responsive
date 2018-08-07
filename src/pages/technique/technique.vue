@@ -70,137 +70,280 @@
     @import "../../less/reset-common";
     @import "../../less/var";
 
-    .page {
-        .sec-banner {
-            height: 480px;
-            background-image: url("../../source/technique/banner.png");
-            background-position: center;
-            background-size: cover;
-            background-repeat: no-repeat;
-        }
-        .sec-yanjiubeijing {
-            padding: 100px 0;
-            .banxin {
-                .banxin();
-                .inner {
-                    display: flex;
-                    flex-direction: row;
-                    justify-content: space-between;
-                    align-items: center;
-                    .inner-left, .inner-right {
-                        width: 50%;
-                        overflow: hidden;
-                    }
-                    .inner-left {
-                        /*background: silver;*/
-                        padding: 30px 30px 30px 0;
-                        color: @black_1;
-                        h3 {
-                            font-size: 30px;
-                            margin: 0;
-                            padding: 0;
-                            font-weight: normal;
+    @media (min-width: 768px) {
+        .page {
+            .sec-banner {
+                height: 480px;
+                background-image: url("../../source/technique/banner.png");
+                background-position: center;
+                background-size: cover;
+                background-repeat: no-repeat;
+            }
+            .sec-yanjiubeijing {
+                padding: 100px 0;
+                .banxin {
+                    .banxin();
+                    .inner {
+                        display: flex;
+                        flex-direction: row;
+                        justify-content: space-between;
+                        align-items: center;
+                        .inner-left, .inner-right {
+                            width: 50%;
+                            overflow: hidden;
                         }
+                        .inner-left {
+                            /*background: silver;*/
+                            padding: 30px 30px 30px 0;
+                            color: @black_1;
+                            h3 {
+                                font-size: 30px;
+                                margin: 0;
+                                padding: 0;
+                                font-weight: normal;
+                            }
+                            p{
+                                font-size: 16px;
+                                line-height: 1.8;
+                            }
+                        }
+                        .inner-right {
+                            /*background: salmon;*/
+                            display: flex;
+                            justify-content: center;
+                            > img {
+                                display: block;
+                                width: 90%;
+                            }
+                        }
+                    }
+
+                }
+
+            }
+            .sec-yanjiuyongtu{
+                padding: 60px 0;
+                background: @gray;
+                .banxin{
+                    .banxin();
+                    color: @black_1;
+                    h3 {
+                        font-size: 30px;
+                        margin: 0;
+                        padding: 0;
+                        font-weight: normal;
+                        padding-bottom: 10px;
+                    }
+                    p{
+                        font-size: 16px;
+                        line-height: 1.8;
+                        margin-bottom: 0;
+                        margin-top: 10px;
+                    }
+                }
+
+            }
+            .sec-yimiao{
+                padding: 60px 0 100px 0 ;
+                .banxin{
+                    .banxin();
+                    color: @black_1;
+                    h3{
+                        font-size: 30px;
+                        margin: 0;
+                        padding: 0;
+                        font-weight: normal;
+                        padding-bottom: 30px;
+
+                    }
+                    .inner{
+                        box-sizing: border-box;
+                        display: flex;
+                        flex-direction: row;
+                        justify-content: space-between;
+
+                        &-left , &-right{
+                            width: 50%;
+                        }
+
+                        &-left{
+                            padding-right: 60px;
+
+                        }
+                        &-right{
+                            /*background: salmon;*/
+                            padding-left: 30px;
+                            .box{
+                                padding: 30px;
+                                background: @gray ;
+                            }
+
+                        }
+
                         p{
                             font-size: 16px;
-                            line-height: 1.8;
+                            line-height: 1.7;
+                            text-indent: 2em;
                         }
-                    }
-                    .inner-right {
-                        /*background: salmon;*/
-                        display: flex;
-                        justify-content: center;
-                        > img {
+                        img{
                             display: block;
                             width: 90%;
                         }
-                    }
-                }
 
-            }
-
-        }
-        .sec-yanjiuyongtu{
-            padding: 60px 0;
-            background: @gray;
-            .banxin{
-                .banxin();
-                color: @black_1;
-                h3 {
-                    font-size: 30px;
-                    margin: 0;
-                    padding: 0;
-                    font-weight: normal;
-                    padding-bottom: 10px;
-                }
-                p{
-                    font-size: 16px;
-                    line-height: 1.8;
-                    margin-bottom: 0;
-                    margin-top: 10px;
-                }
-            }
-
-        }
-        .sec-yimiao{
-            padding: 60px 0 100px 0 ;
-            .banxin{
-                .banxin();
-                color: @black_1;
-                h3{
-                    font-size: 30px;
-                    margin: 0;
-                    padding: 0;
-                    font-weight: normal;
-                    padding-bottom: 30px;
-
-                }
-                .inner{
-                    box-sizing: border-box;
-                    display: flex;
-                    flex-direction: row;
-                    justify-content: space-between;
-
-                    &-left , &-right{
-                        width: 50%;
-                    }
-
-                    &-left{
-                        padding-right: 60px;
-
-                    }
-                    &-right{
-                        /*background: salmon;*/
-                        padding-left: 30px;
-                        .box{
-                            padding: 30px;
-                            background: @gray ;
+                        h4{
+                            margin-top: 10px;
+                            font-size: 26px;
+                            font-weight: normal;
                         }
 
                     }
-
-                    p{
-                        font-size: 16px;
-                        line-height: 1.7;
-                        text-indent: 2em;
-                    }
-                    img{
-                        display: block;
-                        width: 90%;
-                    }
-
-                    h4{
-                        margin-top: 10px;
-                        font-size: 26px;
-                        font-weight: normal;
-                    }
-
                 }
+
             }
 
         }
 
     }
+    @media (max-width:768px) {
 
+        .page {
+            padding-top: 45px;
+            .sec-banner {
+                height: 200px;
+                background-image: url("../../source/banner/m/2.png");
+                background-position: center;
+                background-size: cover;
+                background-repeat: no-repeat;
+            }
+            .sec-yanjiubeijing {
+                .banxin {
+                    margin-top: 2rem;
+                    width: 100%;
+                    padding: 0 0.5rem;
+                    .inner {
+                        display: flex;
+                        flex-direction: column;
+                        align-items: center;
+                        .inner-left, .inner-right {
+                            width: 100%;
+                            overflow: hidden;
+                        }
+                        .inner-left {
+                            /*background: silver;*/
+                            padding: 1rem 1rem 1rem 0;
+                            color: @black_1;
+                            h3 {
+                                font-size: 30px;
+                                margin: 0;
+                                padding: 0;
+                                font-weight: normal;
+                            }
+                            p{
+                                font-size: 16px;
+                                line-height: 1.8;
+                            }
+                        }
+                        .inner-right {
+                            /*background: salmon;*/
+                            display: flex;
+                            justify-content: center;
+                            align-items: center;
+                            padding-bottom: 2rem;
+                            > img {
+                                display: block;
+                                width: 90%;
+                            }
+                        }
+                    }
+
+                }
+
+            }
+            .sec-yanjiuyongtu{
+                padding: 2rem 0;
+                background: @gray;
+                .banxin{
+                    width: 100%;
+                    padding: 0 0.5rem;
+                    color: @black_1;
+                    h3 {
+                        font-size: 1.5rem;
+                        margin: 0;
+                        padding: 0;
+                        font-weight: normal;
+                        padding-bottom: 10px;
+                    }
+                    p{
+                        font-size: 1rem;
+                        line-height: 1.8;
+                        margin-bottom: 0;
+                        margin-top: 10px;
+                    }
+                }
+
+            }
+            .sec-yimiao{
+                padding: 60px 0 2rem 0 ;
+                .banxin{
+                    width: 100%;
+                    padding: 0 0.5rem;
+                    color: @black_1;
+                    h3{
+                        font-size: 1.7rem;
+                        margin: 0;
+                        padding: 0;
+                        font-weight: normal;
+
+                    }
+                    .inner{
+                        box-sizing: border-box;
+                        display: flex;
+                        flex-direction: column;
+                        justify-content: center;
+                        align-items: center;
+                        p{
+                            font-size: 0.9rem;
+                            line-height: 1.7;
+                        }
+                        img{
+                            display: block;
+                            width: 60%;
+                            margin: 0 auto;
+                        }
+
+                        h4{
+                            margin-top: 10px;
+                            margin-bottom: 0;
+                            padding-bottom: 1rem;
+                            font-size: 26px;
+                            font-weight: normal;
+                        }
+                        &-left , &-right{
+                            width: 100%;
+                        }
+
+                        &-left{
+
+                        }
+                        &-right{
+                            margin-top: 2rem;
+                            .box{
+                                padding: 30px;
+                                background: @gray ;
+                            }
+                            img{
+                                width: 100%;
+                            }
+
+                        }
+
+                    }
+                }
+
+            }
+
+        }
+
+    }
 
 </style>

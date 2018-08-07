@@ -491,7 +491,7 @@
         #app {
             padding-top: 48px;
             .banner {
-                .setBackgroundImgCover(@h: 13rem);
+                .setBackgroundImgCover(@h: 13rem , @imgUrl: "../source/banner/m/1.png");
                 .banxin {
                     width: 100%;
                     padding: 3rem 0.5rem 1rem;
@@ -695,6 +695,9 @@
                             justify-content: space-between;
                             align-items: center;
                             border-bottom: 1px solid #ddd;
+                            &:last-child{
+                                border-bottom:none;
+                            }
                             &-title {
                                 background:@blue-a;
                                 color: @white;

@@ -30,11 +30,16 @@
 	}
 }
 
+
+
 .setBackgroundImgCover(@imgUrl:"../source/banner/banner_1.png" , @h:670px , @w:100% ) {
+	// imgUrl 的路径应该是 var.less 与图片位置的相对路径
 	background-image: url(@imgUrl);
 	height: @h;
 	width: @w;
 	background-position: center center;
+	background-size: cover;
+	background-repeat: no-repeat;
 }
 
 .title2() {
