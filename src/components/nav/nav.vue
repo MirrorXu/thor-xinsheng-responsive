@@ -10,10 +10,12 @@
         </div>
         <div class="nav-m">
             <div class="header">
-                <div class="title">Thorgene</div>
+                <div class="title">ThorgeneNeo</div>
                 <div class="icon" @click="show = !show">
-                    <i class="material-icons" v-if="!show">menu</i>
-                    <i class="material-icons" v-else>close</i>
+                    <!--<i class="material-icons fa fa-angle-double-left" v-if="!show">menu</i>-->
+                    <i class="fa fa-bars" style="font-weight: lighter" v-if="!show"></i>
+                    <i class="fa fa-times" v-else></i>
+                    <!--<i class="material-icons" v-else>close</i>-->
                 </div>
             </div>
             <div class="content" :class="{'show':show}">
@@ -24,6 +26,7 @@
 </template>
 
 <script>
+    import '../../../node_modules/font-awesome/css/font-awesome.min.css'
 	export default {
 		name: "Nav",
 		data() {
@@ -130,6 +133,10 @@
                 align-items: center;
                 .icon {
                     display: inline-flex;
+                    .fa{
+                        font-size: 20px;
+                        font-weight: lighter;
+                    }
                 }
             }
             .content {
